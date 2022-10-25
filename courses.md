@@ -1,9 +1,9 @@
 ---
 layout: single
 author_profile: true
-permalink: /Movies/
+permalink: /courses/
 title: Movie
-tags: [Movie, Film,Series]
+tags: []
 modified: 9-14-2019
 comments: false
 ---
