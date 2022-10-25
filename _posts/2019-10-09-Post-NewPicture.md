@@ -13,7 +13,10 @@ Rate : 8.5/10
 
 
 
-![alt text](https://www.imdb.com/title/tt1745960/)
+[more information][def]
 ![alt text](../assets/images/7.jpg )
 
 ---
+
+
+[def]: https://www.imdb.com/title/tt1745960/
