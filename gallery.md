@@ -7,22 +7,22 @@ tags: [gallery]
 modified: 9-14-2019
 comments: false
 gallery:
-  - url: 
+  - url:/assets/images/10.webp
     image_path: 
     alt: 
-    title: 
-  - url: 
+    title:My favorite place to visit
+  - url:/assets/images/12.webp
     image_path: 
     alt:
-    title: 
-  - url:
+    title:My favorite place to visit 
+  - url:/assets/images/13.jpg
     image_path:
     alt:
-    title:  
-  - url:
+    title:My favorite place to visit  
+  - url:/assets/images/9.jpg
     image_path:
     alt: 
-    title:
+    title:My favorite season
   - url:
     image_path:
     alt: 
