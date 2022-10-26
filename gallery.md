@@ -12,7 +12,7 @@ gallery:
     alt: "placeholder image 1"
     title: "My favorite place to visit"
   - url: /assets/images/12.webp
-    image_path: /assets/images/12.webp
+    image_path: /assets/images/12.jpg
     alt: "placeholder image 2"
     title: "My favorite place to visit"
   - url: /assets/images/13.jpg
