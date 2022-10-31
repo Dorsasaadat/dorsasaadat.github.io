@@ -111,11 +111,11 @@ author:
   bio              : My name is Dorsa.Im a CE student at  IUST💻 .My main interest is Coompute and programming but sometimes I draw for fun. Im also crazy for movies and books.🎞️📚
   location         : "تهران"
   email            : dordorsaaa@gmail.com
-  twitter: 
+  twitter: dorsajunson
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
   github: Dorsasaadat
-  instagram: 
+  instagram: real_dorsa
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -135,12 +135,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Calendly"
-      icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/pourrang_atashi"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/Sauleh"
+      url: "http://t.me/Dori_2004"
 
 # Site Footer
 footer:
