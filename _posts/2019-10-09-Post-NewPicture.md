@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Last movie i watched 
+title: Last movie I watched 
 ---
 
 ## This is the movie i watched few days ago and i enjoyed a lot 
