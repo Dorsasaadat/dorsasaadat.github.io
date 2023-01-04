@@ -19,10 +19,10 @@ gallery:
     image_path: /assets/images/13.jpg
     alt: "placeholder image 3"
     title: "My favorite place to visit" 
-  - url: /assets/images/9.jpg
-    image_path: /assets/images/9.jpg
+  - url: /assets/images/me2.jpg
+    image_path: /assets/images/me2.jpg
     alt: "placeholder image 4"
-    title: "My favorite season"
+    title: "Me while taking exam"
   - url:
     image_path:
     alt: 
